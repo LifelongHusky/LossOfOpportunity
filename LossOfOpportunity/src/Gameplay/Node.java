@@ -3,10 +3,11 @@ package Gameplay;
 public class Node {
 
     Node[] children;
-    Integer choice; //used for save data
-    String text; //used when the user is making a choice
+    String name;        //used for ease of memory and for children (name + hasgreg makes node unique)
+    Integer choice;     //used for save data
+    String text;        //used when the user is making a choice
     String consequence; //because the choice happens, here's what we do
-    Integer day; //Not super important but good data to have anyway
+    Integer day;        //Not super important but good data to have anyway
     boolean added = false;
 
     //Constructor
@@ -15,8 +16,25 @@ public class Node {
         this.consequence = consequence;
         this.day = day;
     }
+    public Node() {
+    }
 
-    public void setChildren( Node[] childs ){
+    public void setChoice( int n ) {
+        this.choice = n;
+    }
+
+    public void setText(String t) {
+        this.text = t;
+    }
+
+    public void setConsequence( String c ) {
+        this.consequence = c;
+    }
+    public void setDay(Integer day) {
+        this.day = day;
+    }
+
+    public void setChildren(Node[] childs ){
         children = new Node[childs.length];
         for( int i = 0; i < childs.length; i++ ){
             children[i] = childs[i];
@@ -38,5 +56,6 @@ public class Node {
     public Node getChild(int index){
         return children[index];
     }
+
 
 }

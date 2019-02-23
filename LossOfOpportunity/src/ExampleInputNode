@@ -1,0 +1,15 @@
+DAY
+23
+HASGREG
+false
+CHOICENUMBER
+0
+CHOICETEXT
+a choice
+SCENETEXT
+1
+This is text for a scene.
+CHILDREN
+c1
+c2
+c3
