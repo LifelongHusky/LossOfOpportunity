@@ -5,4 +5,5 @@ public class Day {
     public Day( int dayNum) {
         
     }
+
 }
