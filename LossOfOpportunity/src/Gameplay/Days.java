@@ -1,3 +1,7 @@
+package Gameplay;
+
+import Gameplay.Node;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -32,14 +36,14 @@ public class Days {
                     node.setChoice( sc.nextInt() );
 
                 } else if( nextLine.equals("CHOICETEXT") ) {		//Got it!
-                    node.setConsequence( sc.nextLine() );
+                    node.setSceneText( sc.nextLine() );
 
                 } else if( nextLine.equals("SCENETEXT") ) {			//Got it!
                     int lines = sc.nextInt();
                     for( int i = 0; i <= lines; i++) {
                         sceneText += sc.nextLine();
                     }
-                    node.setText(sceneText);
+                    node.setButtonText(sceneText);
 
                 }  else if( nextLine.equals("CHILDREN") ) {			//Got it!
                     Node[] childs = new Node[3];
@@ -65,10 +69,9 @@ public class Days {
         //Right now it cannot find three files but that is completely intentional
         root = testDay.createNodes( "ExampleInputNode" );
         //Testing, but can be removed whenever
-        System.out.println( "Name: " + root.name );
         System.out.println( "Choice: " + root.choice );
-        System.out.println( "Text: " + root.text);
-        System.out.println( "Consequence: " + root.consequence );
+        System.out.println( "Text: " + root.buttonText);
+        System.out.println( "Consequence: " + root.sceneText );
         System.out.println( "Day: " + root.day );
         System.out.println( "Boolean: " + root.added );
     }
