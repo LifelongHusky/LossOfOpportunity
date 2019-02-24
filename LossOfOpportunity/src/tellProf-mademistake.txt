@@ -1,0 +1,23 @@
+DAY
+0
+HASGREG
+true
+CHOICENUMBER
+0
+CHOICETEXT
+Tell Professor Aureole
+SCENETEXT
+12
+Professor Aureole: "How did downloading the transmission go? What did you find?"
+PT: "It seems to be in a foreign script. I can't read it."
+Professor Aureole: "Well, this isn't exactly an unexpected hiccup. Greg can recover the
+coordinates. Perhaps going there and studying the species will help you translate the 
+script. You could even write your final paper on this discovery!"
+PT: "It would be interesting, but wouldn't it be dangerous to go an unknown planet on
+my own?"
+Professor Aureole: "You could probably go with Greg. Having an expert in technology
+could also help you learn more about the planet. Of course, if you still feel unsafe, you 
+do not have to go. I don't want to force you into a potentially dangerous situation."
+
+[New Mission:  Find the source of the foreign language]
+CHILDREN
