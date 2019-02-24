@@ -1,5 +1,3 @@
-package Gameplay;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -9,59 +7,69 @@ import java.util.Scanner;
 public class Days {
     boolean hasGreg = false;
     ArrayList<Node> fullTree = new ArrayList<>();
+    ArrayList<Node> currentGame = new ArrayList<>();
 
     public Days() {
         
     }
 
-    public Node createNodes(File input) {
+    public Node createNodes(String input) {
+        //Variables that will be used to instantiate the node
+        String sceneText = "";
+        //Find the file
+        String filename = input;
+        File test = new File( filename );
         Node node = new Node();
         Scanner sc;
         try {
-            sc = new Scanner( input );
+            sc = new Scanner( test );
             while( sc.hasNextLine() ) {
                 String nextLine = sc.nextLine();
                 if( nextLine.equals("DAY") ) {						//Got it!
                     node.setDay( sc.nextInt() );
 
-                } else if( nextLine.equals("HASGREG") ) {			//Got it!
-                    hasGreg = sc.nextBoolean();
-
                 } else if( nextLine.equals("CHOICENUMBER") ) {		//Got it!
                     node.setChoice( sc.nextInt() );
 
                 } else if( nextLine.equals("CHOICETEXT") ) {		//Got it!
-                    node.setSceneText( sc.nextLine() );
+                    node.setConsequence( sc.nextLine() );
 
                 } else if( nextLine.equals("SCENETEXT") ) {			//Got it!
                     int lines = sc.nextInt();
-                    String s = "";
                     for( int i = 0; i <= lines; i++) {
-                        s += sc.nextLine();
+                        sceneText += sc.nextLine();
                     }
-                    node.setButtonText(s);
+                    node.setText(sceneText);
 
                 }  else if( nextLine.equals("CHILDREN") ) {			//Got it!
-                    String[] childs = new String[3];
+                    Node[] childs = new Node[3];
                     int i = 0;
                     while( sc.hasNextLine() ) {
-                        childs[i] = sc.nextLine();
+                        childs[i] = createNodes(sc.nextLine());
                         i++;
                     }
+                    node.setChildren( childs );
                 }
             }
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println( input + " was not found" );
         } catch( NoSuchElementException e) {
-
+            System.out.println( "It's fine" );
         }
-        return new Node();
+        return node;
     }
 
     public static void main( String[] args ) {
+        Node root;
         Days testDay = new Days();
-        File test = new File( "C:\\Users\\ealbr\\IdeaProjects\\LossOfOpportunity1\\LossOfOpportunity\\src\\ExampleInputNode" );
-        testDay.createNodes( test );
+        //Right now it cannot find three files but that is completely intentional
+        root = testDay.createNodes( "ExampleInputNode" );
+        //Testing, but can be removed whenever
+        System.out.println( "Name: " + root.name );
+        System.out.println( "Choice: " + root.choice );
+        System.out.println( "Text: " + root.text);
+        System.out.println( "Consequence: " + root.consequence );
+        System.out.println( "Day: " + root.day );
+        System.out.println( "Boolean: " + root.added );
     }
-
 }
