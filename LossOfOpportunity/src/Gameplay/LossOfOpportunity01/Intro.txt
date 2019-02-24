@@ -1,0 +1,48 @@
+DAY
+0
+CHOICENUMBER
+0
+CHOICETEXT
+Start Game
+SCENETEXT
+37
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 0, Year 2319
+
+    Huh? That’s weird. As you were checking the lab computers, one of them 
+received a transmission.  The computers are constantly searching for signals, but rarely 
+find anything. You are glad to find a transmission, as the anthropology department is 
+only kept operating by Professor Aureole. Uploading it will take a while, so you can do 
+other chores while you wait. 
+    Professor Aureole: “Getting everything done early today, huh PT? Oh? What’s 
+that pinging the computer?”
+    PT: “A transmission. I have to upload it to our servers before I can look at it. It’s 
+exciting, we haven’t gotten new information from space in a long time.”
+    Professor Aureole: “Indeed. Perhaps you can even investigate a new culture. Ah, 
+the life of a young anthropologist, how I envy you. I have to go teach my class, but I 
+hope you discover something truly important.”
+    After the professor leaves, you check the transmission. Upload: 59%. You may 
+as well start putting away the books people left scattered around the anthropology lab.  
+Does no one appreciate this program?
+    Head of department: “Ah, PT, are the computers running fine?”
+    PT: “Yes, actually, we just received a signal.”
+    Head of department: “That’s good, it looks like those computers were left here for 
+something after all. Who knows, if it’s anything of value the anthropology program could 
+be given more funding for research. I was looking for Professor Aureole, and I thought I 
+would find him here, but he must be teaching a class. Best of luck with the transmission.”
+    Upload: 100%.
+    Finally, it’s finished uploading.
+        “W'aa tzgx lwn gb iws dhlaqge gjc
+        Oew qumg rvt cwxan va gck
+        X'az sx fbwdgbv ph kay zwhl
+        Pji W'ce vr axcwcv mfn”
+    Of course. The language is so different from our own, it’s pretty much 
+unreadable.  Maybe someone else would be able to help you read it.  But who should 
+you ask? Professor Aureole would be more than happy to give you the materials you 
+need, but the head of the department would be able to give access to the archives to 
+help us learn about the language...
+CHILDREN
+Professor.txt
+HOD.txt

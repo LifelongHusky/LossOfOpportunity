@@ -1,0 +1,13 @@
+DAY
+-1
+CHOICENUMBER
+0
+CHOICETEXT
+Credits
+SCENETEXT
+4
+MTU Winter Wonderhack 2019, February 22-24
+Created by: Laura Albrant, Stephanie BoBo, Meagan Pothoven, and Katie Schmidt
+
+Made with love, sweat, and Monster
+CHILDREN

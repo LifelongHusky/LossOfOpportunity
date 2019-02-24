@@ -1,0 +1,33 @@
+DAY
+259
+CHOICENUMBER
+0
+CHOICETEXT
+Investigate Technology
+SCENETEXT
+23
+[Day 259 continued]
+
+    You land in a deserted town, no sign of life for miles. The ship indicates that the 
+atmosphere is close to that of your home planet, but there are high levels of radiation 
+and higher than average temperatures. You would need to use protective equipment to 
+explore the area.  You suit up and exit the ship, noticing that the village has evidence of 
+a battle. Maybe this is why the village was abandoned. The walls are filled with small holes, 
+while some walls are just gone all together.  Fang sniffs at the ground, growling at a red 
+splatter.  You scan, finding that it is dead organic matter.
+    You walk towards the building you came to investigate, finding that the door is 
+open.  Fang finds the stairs and starts to walk down them, looking behind him to make 
+sure you are following.
+    You reach the lowest floor of the building, finally finding all of the technology that 
+your scanner detected.  The technology has been out of use for a long time.  You start 
+to scan the machine, hoping to find out what, or who, could have brought down an entire planet.
+    The scanner finishes.  Unfortunately, there isn’t much information, but the data 
+the scanner was able to decipher shows that multiple missiles were launched, some 
+from this building, and some at this building.   Some of the data suggests that there 
+were missiles the original inhabitants of this planet considered highly dangerous, but 
+they had all been launched.  But not even their most deadly weapons were able to 
+defeat these enemies, it seems.
+    While it confused you as to why such events took place, it was obvious that the
+ inhabitants of LMSK-19 were attacked and forced into extinction by an alien species.
+CHILDREN
+Mssg5.txt

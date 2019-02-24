@@ -1,0 +1,29 @@
+DAY
+260
+CHOICENUMBER
+0
+CHOICETEXT
+Epilogue
+SCENETEXT
+19
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 260, Year 2319
+
+LMSK-19: SUMMARY OF EVENTS
+
+    After the 236 day research mission of planet LMSK- 19, much has been 
+discovered about the inhabitants, their culture, and why the planet is empty.
+    LMSK-19 is known was known as Earth to its late inhabitants, who referred to 
+themselves as humans.  Our journey started after intercepting a signal sent to a robot 
+called Opportunity--a rover they sent to another planet for research purposes.  While 
+visiting a town called Paris, and investigating a satellite called the Eiffel Tower, we came 
+to the conclusion that the humans left their home planet to explore.  Only one launch 
+pad was found, implying that much of the population was left on the home planet.  This 
+could have been due to the fact that only a small portion of humans wanted to explore, 
+while many wanted to stay on the planet.
+    Our findings suggest that humans left their home planet to explore the galaxy, but 
+left Earth, and the majority of humans, to die, with no intention of coming back.
+CHILDREN
+credits.txt

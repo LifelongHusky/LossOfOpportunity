@@ -1,0 +1,21 @@
+DAY
+259
+CHOICENUMBER
+0
+CHOICETEXT
+Message
+SCENETEXT
+11
+    You continue to look around, trying to find more evidence to back up your conclusions, when you suddenly get a message from your home planet.
+
+               STUDENT PT
+               LMSK-19 IS UNSTABLE.  LEAVE IMMEDIATELY.
+                         -PROFESSOR AUREOLE
+
+    Greg: “We need to leave.  Now.”
+    You both run to the ship, Fang in tow, rushing to leave the planet.  As fun as it 
+would be to continue investigating the planet, it was not worth your lives.
+    You make it back to your ship safely, and fly back to your home planet, excited to 
+tell everyone of what you had learned.
+CHILDREN
+Ep2.txt

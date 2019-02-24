@@ -1,0 +1,14 @@
+DAY
+256
+CHOICENUMBER
+1
+CHOICETEXT
+Investigate the data banks
+SCENETEXT
+4
+    Looks like there really was water on the planet a long time ago. Not only water, 
+but volcanoes. The data banks seem to suggest that life could have existed on 
+this planet. However, they also suggest that there haven’t been any life readings 
+on the planet. This must not be where the society you’re after is from.
+CHILDREN
+InvTran2.txt

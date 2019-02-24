@@ -1,0 +1,26 @@
+DAY
+23
+CHOICENUMBER
+0
+CHOICETEXT
+Next
+SCENETEXT
+16
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 23, Year 2319
+
+    Your ship is finally ready. It actually all went a lot smoother than you thought, you 
+guess the Head of the Department pulled some strings. You hurry towards where it is 
+waiting for you with Fang, the pet your parents got you for grad school, following at your 
+heels. He yaps happily and wags his tail, energized by your excitement. 
+    When you get to the ship, the Head of the Department looks at Fang disdainfully.
+    Head of Department: “I never understood why people would bring their pet along on an 
+important scientific mission.  They take up valuable resources”
+    PT: “Don’t worry sir, he’s incredibly well trained.”
+    Head of department: “I suppose it will be fine. Remember, you will have access to all the 
+university’s files within the harddrive in your ship. Good luck with your research, and 
+remember, the anthropology program is depending on you.”
+CHILDREN
+256Day2.txt

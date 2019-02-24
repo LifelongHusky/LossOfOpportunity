@@ -1,0 +1,36 @@
+DAY
+23
+CHOICENUMBER
+0
+CHOICETEXT
+Next
+SCENETEXT
+26
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 23, Year 2319
+
+    Your ship is finally ready. It actually all went a lot smoother than you thought, you 
+guess Professor Aureole pulled some strings. You hurry towards where the ship is 
+waiting for you with Fang, the pet your parents got you for grad school, following at your 
+heels. He yaps happily and wags his tail, energized by your excitement.
+    As you approach the ship, you see Fang excitedly greeting Professor Aureole.
+    Professor Aureole: “Oh, what a good boy! I feel like it’s been so long since I’ve seen 
+him. He’s certainly grown PT.”
+    PT: “He certainly has! Is Greg here and ready to go?”
+    Professor Aureole: “I think Greg was just doing a final inspection of the ship. He 
+seems to think he’s the only one that he can trust with electronics.”
+    Greg: “If I have to go in this ancient death trap for scientific discovery, I will, but I’d 
+prefer a ship that wasn’t created the same year my grandfather was born.”
+    PT: “Ancient doesn’t mean dysfunctional. You can learn so much from things that 
+existed before you.”
+    Greg: “That is exactly what my grandfather would say when he wanted me to listen to 
+him.”
+    PT: “I’m guessing that means it didn’t work.”
+    Professor Aureole: “PT has a point you know. Either way, you two-”
+    Fang: “Ruff!”
+    Professor Aureole: “Sorry, three, should be off. I wish you the best of luck on your 
+mission, and I truly hope you discover something extraordinary.”
+CHILDREN
+256Day1.txt

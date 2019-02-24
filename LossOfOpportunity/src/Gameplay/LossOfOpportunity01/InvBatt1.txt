@@ -1,0 +1,15 @@
+DAY
+256
+CHOICENUMBER
+2
+CHOICETEXT
+Investigate the battery
+SCENETEXT
+4
+    Greg starts to look at the robot, eying its power source.
+    Greg: “Its battery is only made for a short term project, but the transmissions it 
+sent back to a home computer are over a much longer period of time. Perhaps 
+someone changed the batteries?”
+CHILDREN
+InvDaB1.txt
+InvTran1.txt

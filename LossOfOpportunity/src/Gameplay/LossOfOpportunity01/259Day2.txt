@@ -1,0 +1,20 @@
+DAY
+259
+CHOICENUMBER
+0
+CHOICETEXT
+Go to Planet
+SCENETEXT
+9
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 259, Year 2319
+
+    You followed the coordinates to a nearby planet.  You took satellite images of the 
+planet and found what looks like a giant satellite.  While the satellite was the only 
+noticeable image, scans show that a simple-looking building holds enormous amounts 
+of technology within it.  Where should you land?
+CHILDREN
+InvTech2.txt
+InvSate2.txt

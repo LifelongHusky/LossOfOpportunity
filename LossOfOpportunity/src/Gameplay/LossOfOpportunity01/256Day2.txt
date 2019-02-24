@@ -1,0 +1,25 @@
+DAY
+256
+CHOICENUMBER
+0
+CHOICETEXT
+Start Journey
+SCENETEXT
+14
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 256, Year 2319
+
+    You glance out the window at the planet. It’s covered in red-brown dirt and rocks. The 
+planet doesn’t look like there’s any technology that could have transmitted the signal. You 
+never know, though.
+    You check the display on the ship. It senses that the atmosphere requires some 
+protective equipment. It senses low amounts of atmosphere, non-negligible radiation 
+and cold temperatures.
+    After you and Fang has the proper protective equipment on, you disembark. You think 
+you see something glinting in the distance. Fang barks decisively, indicating a different 
+direction.
+CHILDREN
+FolFang2.txt
+InvGlin2.txt

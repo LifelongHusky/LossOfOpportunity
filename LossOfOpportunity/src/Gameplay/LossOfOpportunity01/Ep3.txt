@@ -1,0 +1,29 @@
+DAY
+260
+CHOICENUMBER
+0
+CHOICETEXT
+Epilogue
+SCENETEXT
+19
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 260, Year 2319
+
+LMSK-19: SUMMARY OF EVENTS
+
+    After the 236 day research mission of planet LMSK- 19, much has been 
+discovered about the inhabitants, their culture, and why the planet is empty.
+    LMSK-19 is known was known as Earth to its late inhabitants, who referred to 
+themselves as humans.  Our journey started after intercepting a signal sent to a robot 
+called Opportunity--a rover they sent to another planet for research purposes.  While 
+visiting a facility the humans referred to as NASA, we discovered evidence that Earth’s 
+climate had been changing rapidly in the years before their extinction.  This rapid 
+climate change was referred to Global Warming by the humans, though the majority of 
+humans remained ignorant to Global Warming until it was too late.  Surprisingly, it 
+seems that the humans were the cause of Global Warming, but were unable to correct 
+their wrongdoings in time to save themselves from extinction.
+   Our findings suggest that the humans were wiped out by Global Warming.
+CHILDREN
+credits.txt

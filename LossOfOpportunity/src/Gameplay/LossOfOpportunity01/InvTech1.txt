@@ -1,0 +1,46 @@
+DAY
+259
+CHOICENUMBER
+0
+CHOICETEXT
+Investigate Technology
+SCENETEXT
+36
+[Day 259 continued]
+
+    You land in a deserted town, no sign of life for miles. The ship indicates that the 
+atmosphere is close to that of your home planet, but there is high levels of radiation and 
+higher than average temperatures. You would need to use protective equipment to 
+explore the area.  
+    Greg: “That’s not a good sign.  I hope it’s not a complete wasteland.”
+    You both suit up and exit the ship, noticing that the village has evidence of a battle 
+occuring.  The walls of houses are filled with small holes, while some walls are just gone 
+all together.  Fang sniffs at the ground, growling at a red splatter.  You scan, finding that 
+it is dead organic matter.  Greg flinches at the reading.
+    You walk towards the building you came to investigate, finding that the door is open.  
+Fang finds the stairs and starts to walk down them, looking behind him to make sure 
+you and Greg are following.
+    You reach the lowest floor of the building, finally finding all of the technology that your 
+scanner detected.  The technology has been out of use for a long time.  You start to 
+scan the machine, hoping to find out what, or who, could have brought down an entire 
+planet.
+    The scanner finishes.  Unfortunately, there isn’t much information, but the data the 
+scanner was able to decipher shows that multiple missiles were launched, some from 
+this building, and some at this building.   Some of the data suggests that there were 
+missiles the original inhabitants of this planet considered highly dangerous, but they had 
+all been launched. Greg walks towards a computer in the base, and uses a mobile 
+power source to turn it back on.
+    Greg: “The missiles were all launched in a close time frame to each other. I should be 
+able to identify the targets of the missiles.”
+    Fang paces uneasily in the base. You hope Greg hurries.
+    Greg: “I don’t understand. It says the targets of the missiles were other places on this 
+very planet. Were these bases hacked?”
+    As Greg investigates the computer further, you go back into the town surrounding the 
+building. You scan the radiation and detect similar radiation signatures to those of the 
+missiles. Greg comes out of the building behind you.
+    Greg: “There’s no evidence of hacking. Did these people really do this to 
+themselves?”
+    As much as you didn’t understand, you couldn’t deny the facts.  The inhabitants of 
+LMSK-19 went extinct, not because of some external factor, but because of internal war.
+CHILDREN
+Mssg2.txt

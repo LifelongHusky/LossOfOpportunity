@@ -1,0 +1,15 @@
+DAY
+256
+CHOICENUMBER
+0
+CHOICETEXT
+Investigate the Transmission
+SCENETEXT
+4
+    The source of the signal seems to be a relay of an incoming transmission from 
+the original base of the robot. Further investigation reveals the source to be from 
+a nearby planet. Sadly, it’s impossible to get more exact coordinates without 
+someone who can access encrypted data and trace the source.
+
+CHILDREN
+259Day2.txt

@@ -1,0 +1,55 @@
+DAY
+259
+CHOICENUMBER
+1
+CHOICETEXT
+Investigate Satellite
+SCENETEXT
+45
+[Day 259 continued]
+
+    You land in a barren area, the ground covered in an unnatural and hard material. The 
+ship indicated that the atmosphere and radiation are at levels close to your planet, and 
+the temperatures warm but no need for protective equipment. As you step out of the 
+ship, there are many low-level pieces of technology that looks like it used to be used for 
+transportation in the area, but the most obvious thing was the giant satellite. It’s a lot 
+larger than you thought it would be. 
+    It’s also in the middle of lots of buildings, which made it impossible to park the ship 
+close to it. You must walk.
+    As you and Greg travel towards the satellite, you notice decorations in and on the 
+buildings you pass. There’s what you recognize as exploration tools from different eras 
+in the windows of the buildings. There’s also what appears to be a mix of cultures 
+represented, with different dialects and languages printed on signs. There’s art 
+everywhere, showing unity of different groups of people, from professional paintings 
+hanging in buildings to informal artistic expression strewn on stone walls.
+    Greg: “These people were very passionate, and good at what they did.  Everything 
+here seems to come together to make one coherent piece of art.”
+    When you arrive at the satellite, it’s covered in ornate symbols, much different than 
+the ones used in the languages you’ve observed. 
+    Fang starts to walk towards the satellite.  You follow him.
+    After passing the satellite, you see what looks like a launch pad, with scorch marks in 
+its center.  When the launch pad is in view, Fang starts to run towards it, Greg quickly 
+following suit.
+    PT: “Fang!  Greg!  Stop!”
+    Fang, of course, does not listen--and neither does Greg.  You run after both of them, 
+eventually catching up to Fang and Greg when they stop by the launch pad.
+    Greg: “This must have taken forever to build!  I can’t even imagine what the rocket 
+looked like.”
+    You look at the launch pad, and remember the images of the planet.  With how many 
+buildings there were, there was no way everyone could have fit onto the rocket.  
+    PT: “Yes, it’s cool, but there’s no way the rocket could have held the entire population of 
+this planet.”
+    Greg: “That’s true, but maybe there were multiple launch pads?”
+    Greg steps up to the platform and plugs in his scanner, making quick work of 
+decoding the information.
+    Greg: “Looks like there were multiple ships.  They seemed to have planned to meet up 
+near a different planet.”
+    PT: “That’s good.  At least they didn’t leave the majority of their population behind.”
+    Though you were relieved that a lot of people did leave on a ship, you still wondered 
+why they left in the first place. You remember the art made from the intermingling of 
+different types of cultures. You remember the exploratory tools decorating the city. 
+These people, it seems, were a curious people. They felt the need to explore and gain 
+knowledge, to learn and expand.
+    They left for adventure, but abandoned their home.
+CHILDREN
+Mssg1.txt

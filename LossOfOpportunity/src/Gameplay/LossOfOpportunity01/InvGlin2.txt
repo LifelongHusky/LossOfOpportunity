@@ -1,0 +1,14 @@
+DAY
+256
+CHOICENUMBER
+0
+CHOICETEXT
+Investigate the glint
+SCENETEXT
+3
+    You go towards the light and come across a robot. It looks like one of the robotic pets 
+people have on your planet. Does this planet have similar inventions? Is this the proof of 
+life you were searching for?
+CHILDREN
+InvTran2.txt
+InvDaB2.txt

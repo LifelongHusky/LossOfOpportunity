@@ -1,0 +1,25 @@
+DAY
+0
+CHOICENUMBER
+0
+CHOICETEXT
+Tell Professor
+SCENETEXT
+15
+[Day 0 continued]
+
+    Professor Aureole: “How did downloading the transmission go? What did you 
+find?”
+    PT: “It seems to be in a foreign script. I can’t read it.”
+    Professor Aureole: “Well, this isn’t exactly an unexpected hiccup. Greg can 
+recover the coordinates. Perhaps going there and studying the species will help you 
+translate the script. You could even write your final paper on this discovery!”
+    PT: "It would be interesting, but are you suggesting I go to this planet?"
+    Professor Aureole: “Yes, I really think you should!  You could probably go with 
+Greg. Having an expert in technology could also help you learn more about the planet. 
+Of course, if you feel unsafe, you do not have to go. I don’t want to force you into a 
+potentially dangerous situation.”
+
+[New Mission:  Go to planet LMSK-19]
+CHILDREN
+23Day1.txt

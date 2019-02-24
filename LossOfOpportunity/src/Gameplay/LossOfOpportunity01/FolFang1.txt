@@ -1,0 +1,15 @@
+DAY
+256
+CHOICENUMBER
+1
+CHOICETEXT
+Follow Fang
+SCENETEXT
+5
+    You let Fang lead you to what he had discovered. He stops by a divet in the face of 
+the planet. It branches out like rivers. Out of curiosity, you test the soil. It reads in ways 
+that correlate with water having flown there once. The planet is too cold for flowing 
+water now, and there is no sign of it in the valley. If there was water, where did it go? 
+Why did the temperature change so dramatically?
+CHILDREN
+InvGlin1.txt

@@ -1,0 +1,28 @@
+DAY
+256
+CHOICENUMBER
+0
+CHOICETEXT
+Start Journey
+SCENETEXT
+17
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 256, Year 2319
+
+    You glance out the window at the planet. It’s covered in red-brown dirt and rocks. It 
+doesn’t look like there’s any technology that could have transmitted the signal.
+    PT: “Are you sure this is where the transmission came from? It doesn’t look like 
+anything came from here.”
+    Greg: “Maybe the people live underground on this planet.”
+    PT: “I suppose there’s only one way to find out.”
+    You check the display on the ship. It senses that the atmosphere requires some 
+protective equipment. It senses low amounts of atmosphere, non-negligible radiation 
+and cold temperatures.
+    After everyone has the proper protective equipment on, you disembark. You think you 
+see something glinting in the distance. Fang barks decisively, indicating a different 
+direction.
+CHILDREN
+FolFang1.txt
+InvGlin1.txt

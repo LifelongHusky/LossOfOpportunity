@@ -1,0 +1,24 @@
+DAY
+259
+CHOICENUMBER
+0
+CHOICETEXT
+Go to planet
+SCENETEXT
+12
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 259, Year 2319
+
+    You followed the coordinates to a nearby planet.  You took satellite images of the 
+planet and found what looks like a giant satellite.  While the satellite was the only 
+noticeable image, scans show that a simple-looking building holds enormous amounts 
+of technology within it.  
+    Greg: “Don’t forget, we can also go to the coordinate we found in the dead robot.  
+There’s an area close by where we can land.”
+    Where should you land?
+CHILDREN
+InvSate1.txt
+InvTech1.txt
+InvCoor1.txt

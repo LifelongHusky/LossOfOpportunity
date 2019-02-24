@@ -1,0 +1,37 @@
+DAY
+0
+CHOICENUMBER
+1
+CHOICETEXT
+Tell Head of Department
+SCENETEXT
+27
+University: Camber University
+Major: Anthropology
+Student: PT
+Journal Entry: Day 0, Year 2319
+
+   Head of Department: “The transmission finished uploading?  Finally!  I was just 
+starting to think you made the whole thing up. What does it say?”
+   PT: “I can’t tell, it’s in a foreign language. I was wondering if you could help me figure 
+out what it says.”
+   Head of Department: “Of course the anthropology computers couldn’t translate it.  
+Here, let me take a look.”
+   Head of Department: “This transmission is an absolute mess!  But, I was at least able 
+to get coordinates.  Seems like this came from a nearby solar system.”
+   PT: “Of course.  But what do you think the transmission could mean?  Do you think 
+they could be in trouble?  Could the transmission be their last hope of survival?  What 
+if--”
+   Head of Department: “If you’re so worried about them, why don’t you go look for 
+them?  It would be great research for your final paper.”
+   PT: “Isn’t that a little dangerous?  Going to a foreign planet without knowing if the 
+species is hostile?”
+  Head of Department: “Yes, but studying this species could save the anthropology 
+department.  I’ll give you all of the information we have on the planet, I hope this helps.”
+
+[New Mission:  Go to planet LMSK-19]
+{Investigating Planet: LMSK-19
+Received a package from this planet. Package destroyed upon impact.
+Transmission received from planet. Transmission content yet unknown.}
+CHILDREN
+23Day2.txt

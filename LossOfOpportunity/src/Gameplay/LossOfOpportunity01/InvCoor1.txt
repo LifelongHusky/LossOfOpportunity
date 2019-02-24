@@ -1,0 +1,31 @@
+DAY
+259
+CHOICENUMBER
+2
+CHOICETEXT
+Investigate Coordinates
+SCENETEXT
+21
+[Day 259 continued]
+
+    You arrive at the coordinates.  While this building looks as run-down as the others, it’s 
+obvious that the people that lived here took good care of this area.
+    Greg: “This is it, where the signal originally came from.  If we go inside, we might be 
+able to find out more about this planet.”
+    Following Greg’s advice, you go inside what looks like the main building.  You wander 
+around for a bit until you find a giant room filled with technology, much more advanced 
+than what any other evidence suggested this species had.  Your scanner isn’t able to 
+get much from this computer, but it is able to to uncover a bunch of information about 
+the planet’s general environment.  Apparently, the planet was experiencing major 
+changes while the inhabitants were still here.  The temperatures were becoming more 
+varied, and the atmosphere protecting the planet started to deteriorate.  By the time the 
+people realized the cause, there was nothing they could do to stop the inevitable 
+extinction of their species.  It seems like they uploaded as much information as they 
+could onto these computers, just in case anyone ever wanted to know about their 
+culture.
+    Greg: “So they died because the planet died?  There is some poetic beauty in that.  
+Dying with the planet that gave you life.”
+    You nodded in agreement. But as tragically beautiful as it is, it didn’t negate the fact 
+that their own recklessness was their, and their home’s, undoing.
+CHILDREN
+Mssg3.txt
