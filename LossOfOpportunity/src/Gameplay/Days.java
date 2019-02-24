@@ -9,7 +9,6 @@ import java.util.Scanner;
 public class Days {
     boolean hasGreg = false;
     ArrayList<Node> fullTree = new ArrayList<>();
-    ArrayList<Node> currentGame = new ArrayList<>();
 
     public Days() {
         
@@ -32,7 +31,7 @@ public class Days {
                     node.setChoice( sc.nextInt() );
 
                 } else if( nextLine.equals("CHOICETEXT") ) {		//Got it!
-                    node.setConsequence( sc.nextLine() );
+                    node.setSceneText( sc.nextLine() );
 
                 } else if( nextLine.equals("SCENETEXT") ) {			//Got it!
                     int lines = sc.nextInt();
@@ -40,7 +39,7 @@ public class Days {
                     for( int i = 0; i <= lines; i++) {
                         s += sc.nextLine();
                     }
-                    node.setText(s);
+                    node.setButtonText(s);
 
                 }  else if( nextLine.equals("CHILDREN") ) {			//Got it!
                     String[] childs = new String[3];
@@ -61,7 +60,7 @@ public class Days {
 
     public static void main( String[] args ) {
         Days testDay = new Days();
-        File test = new File( "ExampleInputNode.txt" );
+        File test = new File( "C:\\Users\\ealbr\\IdeaProjects\\LossOfOpportunity1\\LossOfOpportunity\\src\\ExampleInputNode" );
         testDay.createNodes( test );
     }
 
