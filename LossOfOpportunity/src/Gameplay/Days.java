@@ -37,8 +37,7 @@ public class Days {
                 } else if( nextLine.equals("SCENETEXT") ) {			//Got it!
                     int lines = sc.nextInt();
                     for( int i = 0; i <= lines; i++) {
-                        sceneText += sc.nextLine();
-                        sceneText += "\n";
+                        sceneText += sc.nextLine() + "\n";
                     }
                     node.setSceneText(sceneText);
 
